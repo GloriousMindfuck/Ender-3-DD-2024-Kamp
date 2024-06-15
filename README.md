@@ -20,6 +20,7 @@ A continuación, se destacan algunas de las configuraciones más significativas 
 #### KAMP: Adaptative Mesh and Purge
 #### M600: Advanced color change 
 #### Filament Dryer: use the Heated bed as dryer
-#### 
+#### Multiple build sheets: variable Z offsets 
+#### Macros de Inicio, Pausa, Cancel, etc
 
 ......
