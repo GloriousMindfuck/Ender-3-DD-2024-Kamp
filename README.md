@@ -1,10 +1,9 @@
 # Klipper Configuration Backup for Ender 3 DD 2024 Kamp
 
-![Ender 3 DD 2024 Kamp]
+[Ender 3 DD 2024 Kamp]
 
-Este repository almacena un respaldo completo de los archivos de configuración de Klipper diseñados específicamente para una impresora 3D Ender 3 equipada con Direct Drive (DD) y modificaciones según el proyecto "Ender-3-DD-2024-Kamp". Este conjunto de configuraciones incluye macros detallados y ajustes precisos para optimizar el rendimiento, la velocidad y la calidad de impresión.
+Este repository almacena un respaldo completo de los archivos de configuración de Klipper diseñados específicamente para una impresora 3D Ender 3 equipada con Direct Drive (DD) extrusor BMG y Hotend e3d v6. Electrónica SKR mini E3 V2 y sensor inductivo. Modificaciones según el proyecto "Ender-3-DD-2024-Kamp". Este conjunto de configuraciones incluye macros detallados y ajustes precisos para optimizar el rendimiento, la velocidad y la calidad de impresión.
 
-## Contenido
 
 ### Estructura del Repositorio
 
@@ -18,6 +17,9 @@ El repositorio sigue una estructura organizativa para facilitar la localización
 
 A continuación, se destacan algunas de las configuraciones más significativas incluidas en este respaldo:
 
-#### Macro de Purge para Direct Drive
+#### KAMP: Adaptative Mesh and Purge
+#### M600: Advanced color change 
+#### Filament Dryer: use the Heated bed as dryer
+#### 
 
 ......
